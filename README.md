@@ -6,7 +6,7 @@ Backend Developer @ HclTech
 ### 👩‍💻 About Me
 
 - 💼 Backend Developer at **HCLTech**
-- 🚀 2 years of hands-on experience with **Spring Boot**, **Spring Framework**, **Java**, and **PostgreSQL**
+- 🚀 2+ years of hands-on experience with **Spring Boot**, **Spring Framework**, **Java**, and **PostgreSQL**
 - 🔐 Implementing secure systems using **JWT**, **Spring Security**
 - ✅ Test-driven development with **JUnit** and **JaCoCo**
 - 🐳 Containerized applications using Docker for consistent and portable deployments
