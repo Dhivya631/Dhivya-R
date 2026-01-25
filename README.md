@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Dhivya R!
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-Backend Developer @ HclTech
+Backend Java Developer @ HclTech
 
 ### 👩‍💻 About Me
 
-- 💼 Backend Developer at **HCLTech**
+- 💼 Backend Java Developer at **HCLTech**
 - 🚀 2+ years of hands-on experience with **Spring Boot**, **Spring Framework**, **Java**, and **PostgreSQL**
 - 🔐 Implementing secure systems using **JWT**, **Spring Security**
 - ✅ Test-driven development with **JUnit** and **JaCoCo**
